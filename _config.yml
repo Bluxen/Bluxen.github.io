@@ -1,5 +1,5 @@
 # Site settings
-title: The Minimum Viable Model
+title: Simone Tarenzi's Website
 description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -24,9 +24,9 @@ logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: Armando Maynez # add your name
-author-pic: Myself_Neon_grey.jpg
-about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
+author: Simone Tarenzi # add your name
+author-pic: profile_pic.jpeg
+about-author: Just a guy learning HTML.
 
 # Contact links
 email: simonetarenzi97@gmail.com # Add your Email address
@@ -34,8 +34,8 @@ phone: +39 340 5992930 # Add your Phone number
 website: https://Bluxen.github.io # Add your website
 linkedin: simone-tarenzi # Add your Linkedin handle
 github: Bluxen # Add your Github handle
-twitter: '@MvmThe' # Add your Twitter handle
-bandcamp: armandomaynez # Add your Bandcamp username
+twitter: '@Bluxen97' # Add your Twitter handle
+bandcamp: simonetarenzi # Add your Bandcamp username
 stackoverflow: stackoverflow # Add your stackoverflow account
 
 # Newsletter
