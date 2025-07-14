@@ -1791,8 +1791,8 @@ img + small, img + br + small {
 }
 
 .about-header .author-image-container {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 200px;
   -webkit-border-radius: 0%;
           border-radius: 0%;
   overflow: hidden;
@@ -2086,8 +2086,8 @@ a.read-more:hover {
     text-align: center;
   }
   .author-box .author-img {
-    height: 75px;
-    width: 75px;
+    height: 100px;
+    width: 100px;
     margin: 10px auto;
   }
   .author-box .author-desc h2 {
@@ -2136,4 +2136,3 @@ a.read-more:hover {
     .page__hero-caption{color:#000 !important;background:white !important;opacity:1}
     .page__hero-caption a{color:#000 !important}
     .masthead,.toc,.page__share,.page__related,.pagination,.ads,.page__footer,.page__comments-form,.author__avatar,.author__content,.author__urls-wrapper,.nav__list,.sidebar,.adsbygoogle{display:none !important;height:1px !important}}
-
