@@ -16,7 +16,7 @@ const data = {
             date: "Mar 2026 - Current",
             location: "Milan, IT",
             mapUrl: "https://www.google.com/maps/place/Intesa+Sanpaolo+Vita/@45.4854873,9.1942645,16z/data=!3m1!5s0x4786c6ce0e50fb7f:0x64c17ba744fe5fb1!4m15!1m8!3m7!1s0x4786c6ce0e50fb7f:0xba36fae02fe50c56!2sVia+Melchiorre+Gioia,+22,+20124+Milano+MI!3b1!8m2!3d45.4854873!4d9.1968394!16s%2Fg%2F11cpp1n4_1!3m5!1s0x4786c128426e41f9:0x7c605f2eacedc5c6!8m2!3d45.4854874!4d9.1968394!16s%2Fg%2F1tvw3thk?entry=ttu&g_ep=EgoyMDI2MDMwNC4xIKXMDSoASAFQAw%3D%3D",
-            desc: "Developing cloud-native microservices using the Quarkus framework for core banking data management. <br> Orchestrating API integration to retrieve and display complex customer anagraphical data and product relationships. <br> Managing data visualization and access for modernized MongoDB database infrastructures.",
+            desc: "Contributing to the development of the bank's next-generation centralized customer registry database using MongoDB, modernizing legacy systems to seamlessly integrate data from multiple acquired banking institutions. <br> Designing and implementing fast, scalable, and secure REST APIs using Quarkus to manage core banking relations, accounts, and customer profiles across the entire banking network. <br> Following the full-stack ecosystem with Jenkins and Jira to maintain a robust CI/CD pipeline and Agile workflow.",
             details: "At Intesa Sanpaolo, I am part of a new team responsible for modernizing how the bank handles and retrieves core customer information. <br> I focus on building high-performance applications with Quarkus to interface with a newly migrated MongoDB environment. <br> My work involves handling large-scale datasets, including customer anagraphics, geographical data (cities/regions/nations), and the intricate relationships between clients and various banking products."
         },
         {
@@ -36,7 +36,7 @@ const data = {
             date: "Aug 2023 - Jun 2024",
             location: "Lugano, CH",
             mapUrl: "https://www.google.com/maps/place/USI+Universit%C3%A0+della+Svizzera+italiana/@46.010733,8.9555832,17z/data=!3m1!4b1!4m6!3m5!1s0x47842d98369b06c3:0x618f9f987d4b4b09!8m2!3d46.010733!4d8.9581581!16zL20vMDcxOHRs?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D",
-            desc: "Created and expanded the community to 50+ members. <br> Helped manage workshops and guest speaker events. <br> Hosted and taught an introductory workshop on 3D printing techniques.",
+            desc: "Created and expanded the community to 50+ members. <br> Helped manage workshops and guest speaker events about AI, finance and technology. <br> Hosted and taught an introductory workshop on 3D printing techniques and practices with 30+ participants.",
             details: "Four other fellow colleagues and I created the first ever Google Developer Student Club in USI, both as a challenge to ourselves, and to provide a community for students interested in modern technologies and software development in general. <br> This was an incredible opportunity to improve my leadership and organizational skills, and also share my passion for 3D printing with others while strengthening my public speaking abilities."
         }
     ],
@@ -143,10 +143,10 @@ const data = {
         "Programming": ["Python", "Java", "C++", "SQL", "NoSQL", "HTML", "CSS", "Javascript", "Kotlin", "Matlab", "LaTeX"],
         "Data Science, AI & ML": ["NumPy", "PyTorch", "TensorFlow", "SciPy", "scikit-learn", "Matplotlib", "seaborn", "pandas", "LangChain", "OpenCV"],
         "Databases": ["MySQL", "PostgreSQL", "SQLite", "Firebase", "MongoDB", "Chroma", "FAISS"],
-        "DevOps & Frameworks": ["Git", "Docker", "ROS", "Kubernetes", "Spring Boot", "Quarkus", "Kafka", "JUnit"],
+        "DevOps & Frameworks": ["Git", "Docker", "ROS", "Kubernetes", "Spring Boot", "Quarkus", "Kafka", "Jenkins", "JUnit"],
         "Management & Visualization": ["Jira", "Confluence", "Tableau", "Microsoft 365"],
         "Professional Software": ["Fusion 360", "PrusaSlicer", "Photoshop", "Illustrator", "Lightroom", "DaVinci Resolve"],
         "Languages": ["Italian (Native)", "English (CAE C1 - 200/210)", "German (Beginner)"],
-        "Interests": ["Guitar", "Traveling", "Photography", "Video Editing", "3D Modeling", "3D Scanning", "Model Kit Building"]
+        "Interests": ["Guitar", "Traveling", "Photography", "Video Editing", "3D Printing", "3D Scanning", "Model Kit Building"]
     }
 };
