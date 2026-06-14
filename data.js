@@ -3,7 +3,7 @@ const data = {
         name: "Simone Tarenzi",
         title: "Software & Data Engineer",
         location: "Varese, IT",
-        bio: "Junior Software Engineer at Intesa Sanpaolo. <br> M.Sc. in Informatics with AI Specialization and Co-Founder of the Google Developer Student Club at USI. <br> Passionate about AI, Robotics, and anything to do with computers.",
+        bio: "Software Engineer at Intesa Sanpaolo. <br> M.Sc. in Informatics with AI Specialization and Co-Founder of the Google Developer Student Club at USI. <br> Passionate about AI, Robotics, and anything to do with computers.",
         email: "simonetarenzi97@gmail.com",
         linkedin: "https://linkedin.com/in/simone-tarenzi",
         github: "https://github.com/simonetarenzi",
@@ -11,7 +11,7 @@ const data = {
     },
     experience: [
         {
-            role: "Junior Software Engineer",
+            role: "Software Engineer",
             company: "Intesa Sanpaolo",
             date: "Mar 2026 - Current",
             location: "Milan, IT",
