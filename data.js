@@ -3,7 +3,9 @@ const data = {
         name: "Simone Tarenzi",
         title: "Software & Data Engineer",
         location: "Varese, IT",
-        bio: "Software Engineer at Intesa Sanpaolo. <br> M.Sc. in Informatics with AI Specialization and Co-Founder of the Google Developer Student Club at USI. <br> Passionate about AI, Robotics, and anything to do with computers.",
+        bio: "Software Engineer at Intesa Sanpaolo." +
+        "<br> M.Sc. in Informatics with AI Specialization and Co-Founder of the Google Developer Student Club at USI." +
+        "<br> Passionate about AI, Robotics, and anything to do with computers.",
         email: "simonetarenzi97@gmail.com",
         linkedin: "https://linkedin.com/in/simone-tarenzi",
         github: "https://github.com/simonetarenzi",
@@ -16,7 +18,9 @@ const data = {
             date: "Mar 2026 - Current",
             location: "Milan, IT",
             mapUrl: "https://www.google.com/maps/place/Intesa+Sanpaolo+Vita/@45.4854873,9.1942645,16z/data=!3m1!5s0x4786c6ce0e50fb7f:0x64c17ba744fe5fb1!4m15!1m8!3m7!1s0x4786c6ce0e50fb7f:0xba36fae02fe50c56!2sVia+Melchiorre+Gioia,+22,+20124+Milano+MI!3b1!8m2!3d45.4854873!4d9.1968394!16s%2Fg%2F11cpp1n4_1!3m5!1s0x4786c128426e41f9:0x7c605f2eacedc5c6!8m2!3d45.4854874!4d9.1968394!16s%2Fg%2F1tvw3thk?entry=ttu&g_ep=EgoyMDI2MDMwNC4xIKXMDSoASAFQAw%3D%3D",
-            desc: "Contributing to the development of the bank's next-generation centralized customer registry database using MongoDB, modernizing legacy systems to seamlessly integrate data from multiple acquired banking institutions. <br> Designing and implementing fast, scalable, and secure REST APIs using Quarkus to manage core banking relations, accounts, and customer profiles across the entire banking network. <br> Following the full-stack ecosystem with Jenkins and Jira to maintain a robust CI/CD pipeline and Agile workflow.",
+            desc: "Contributing to the development of the bank's next-generation centralized customer registry database using MongoDB, modernizing legacy systems to seamlessly integrate data from multiple acquired banking institutions." +
+            "<br> Designing and implementing fast, scalable, and secure REST APIs using Quarkus to manage core banking relations, accounts, and customer profiles across the entire banking network." +
+            "<br> Following the full-stack ecosystem with Jenkins and Jira to maintain a robust CI/CD pipeline and Agile workflow.",
             details: "At Intesa Sanpaolo, I am part of a new team responsible for modernizing how the bank handles and retrieves core customer information. <br> I focus on building high-performance applications with Quarkus to interface with a newly migrated MongoDB environment. <br> My work involves handling large-scale datasets, including customer anagraphics, geographical data (cities/regions/nations), and the intricate relationships between clients and various banking products."
         },
         {
@@ -99,16 +103,21 @@ const data = {
             tags: ["Java", "Logic", "Graphs"],
             linkText: "GitHub",
             url: "https://github.com/simonetarenzi/Decision_DB",
-            details: "My Bachelor's thesis involved creating a Java application that could take three-valued logic formulas as input and represent them as decision diagrams. The most difficult part was to not only create a graph representing the formula itself, but also a way to simplify it so that it was legible. In the end I decided to show the various steps of simplification as well, so it would be easier to understand how the final graph was obtained."
+            details: "My Bachelor's thesis involved creating a Java application that could take three-valued logic formulas as input and represent them as decision diagrams. " +
+            "<br> The most difficult part was to not only create a graph representing the formula itself, but also a way to simplify it so that it was legible. " +
+            "<br> In the end I decided to show the various steps of simplification as well, so it would be easier to understand how the final graph was obtained."
         },
         {
             title: "PillsKeeper",
             type: "App Development",
-            desc: "Android app for keeping and managing a personal inventory of medications, with online database support for data synchronization, automatic reminders, prescription email templates, and Google Maps integration.",
+            desc: "Android app for keeping and managing a personal inventory of medications, " +
+            "with online database support for data synchronization, automatic reminders, " +
+            "prescription email templates, and Google Maps integration.",
             tags: ["Android", "Kotlin", "Firebase", "Google Maps"],
             linkText: "GitHub",
             url: "https://github.com/MarvinTM62/PillsKeeper",
-            details: "The first 'real' app I developed during my Bachelor's degree, created as a university project with a team of 3 people. <br> I was mainly responsible for the database design and implementation in Firebase, as well as the reminders system using Android's AlarmManager."
+            details: "The first 'real' app I developed during my Bachelor's degree, created as a university project with a team of 3 people." +
+            "<br> I was mainly responsible for the database design and implementation in Firebase, as well as the reminders system using Android's AlarmManager."
         },
         {
             title: "Wi-Finder",
@@ -117,25 +126,32 @@ const data = {
             tags: ["Android", "Java", "SQLite", "Google Maps"],
             linkText: "GitHub",
             url: "",
-            details: "The final project for the Mobile & Wearable Computing course in USI, built with another student. <br> I was responsible for the UI and overall navigation of the app, while my partner handled the Wi-Fi scanning and location approximation algorithms."
+            details: "The final project for the Mobile & Wearable Computing course in USI, built with another student." +
+            "<br> I was responsible for the UI and overall navigation of the app, while my partner handled the Wi-Fi scanning and location approximation algorithms."
         },
         {
             title: "3D Modeling Projects",
             type: "3D Modeling",
-            desc: "Various 3D modeling projects like an adapter for a rearview mirror, a bluetooth speaker, a board game, and more. <br> Designed with Fusion 360 and produced using PrusaSlicer and FDM printing technology.",
+            desc: "Various 3D modeling projects like an adapter for a rearview mirror, a bluetooth speaker, a board game, and more." +
+            "<br> Designed with Fusion 360 and produced using PrusaSlicer and FDM printing technology.",
             tags: ["3D Modeling", "Fusion 360", "PrusaSlicer", "FDM Printing"],
             linkText: "Thingiverse",
             url: "https://www.thingiverse.com/Bluxen/designs",
-            details: "My profile page on Thingiverse where I upload some of my 3D modeling projects and designs for others to download and use. I am particularly proud of my rearview mirror adapter, which I designed to fit my dad's Mercedes and encloses a dashcam, and that I also sanded and painted. <br> But the board game is cool too!"
+            details: "My profile page on Thingiverse where I upload some of my 3D modeling projects and designs for others to download and use." +
+            "<br> I am particularly proud of my rearview mirror adapter, which I designed to fit my dad's Mercedes and encloses a dashcam, and that I also sanded and painted." +
+            "<br> But the board game is cool too!"
         },
         {
             title: "Portfolio Website",
             type: "Website",
-            desc: "Personal portfolio website to showcase my skills, experience, and projects. <br> Built with HTML, CSS, and JavaScript, featuring a responsive design and interactive elements.",
+            desc: "Personal portfolio website to showcase my skills, experience, and projects." +
+            "<br> Built with HTML, CSS, and JavaScript, featuring a responsive design and interactive elements.",
             tags: ["HTML", "CSS", "JavaScript"],
             linkText: "GitHub",
             url: "https://simonetarenzi.github.io",
-            details: "My own personal website. <br> I wanted to have a very modern looking website where I can put whatever doesn't fit in my curriculum. <br> It follows the so called \"Liquid Glass\" design by Apple, or what I like to call \"Windows Vista 2025\"."
+            details: "My own personal website." +
+            "<br> I wanted to have a very modern looking website where I can put whatever doesn't fit in my curriculum." +
+            "<br> It follows the so called \"Liquid Glass\" design by Apple, or what I like to call \"Windows Vista 2025\"."
         }
     ],
 
